@@ -4,7 +4,7 @@ This medical record system is a Java program that shows interesting statistics o
 
 ## Description
 
-This program is intended to show a user-friendly Java interface that uses an sqlite database to provide statistics of a medical record system. Not all tables in the database are able to be modified by the program. Instead, this program is intended to show how interesting queries can be executed and displayed by the system. The program provides one set of add, delete, and update queries. More information on the program construction and functionalities can be found in the Final Document in this repo.
+This program is intended to show a user-friendly Java interface that uses an sqlite database to provide statistics of a medical record system. Not all tables in the database are able to be modified by the program. Instead, this program is intended to show how interesting queries can be executed and displayed by the system. The program provides one set of add, delete, and update queries. More information on the program construction and functionalities can be found in the [Final Document](https://github.com/JohnCornwell/MedicalRecordSystem/blob/main/FinalDocument-Cornwell.pdf) in this repo.
 
 ## Dependencies
 
