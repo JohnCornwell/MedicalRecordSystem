@@ -10,7 +10,7 @@ import entities.Appointment;
 import entities.Patient;
 
 public class Database {
-	private String url = "jdbc:sqlite:C:\\Users\\Cornw\\OneDrive\\Desktop\\CS364\\Project\\MedicalRecord.db";
+	private String url = "jdbc:sqlite:MedicalRecord.db";
 
 	private static final Database INSTANCE = new Database();
 
